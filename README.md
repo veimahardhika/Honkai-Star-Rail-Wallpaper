@@ -1,2 +1,7 @@
-# Honkai-Star-Rail-Wallpaper
-Collection of Honkai: Star Rail Wallpaper
+<div align="center">
+
+# Honkai: Star Rail Wallpaper
+
+This repository contains a collection of Honkai: Star Rail Wallpaper
+
+</div>
